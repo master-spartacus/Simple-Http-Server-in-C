@@ -32,12 +32,11 @@ step - 5
   
 # Testing with client web browser
   1. Open your favorite browser and type localhost:10000 on the URL bar You'll see a output like
-  
     ```
     Hello, I'm a Simple Http Server :D
     ```
   
-  2. Type localhost:10000/*Patch to index.html file provided in src directory* on the URL bar You'll see a output like 
+  2. Type localhost:10000/*Path to index.html file provided in src directory* on the URL bar You'll see a output like 
   
      ```
      Today is : Monday
