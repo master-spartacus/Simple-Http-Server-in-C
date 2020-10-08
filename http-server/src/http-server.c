@@ -53,7 +53,7 @@ void ParseHttpHeaderAndCreateResponse(char *header, char *Response)
   puts(Response);
   printf("--------------Response-------------\n");
 
-}
+} //  End of ParseHttpHeaderAndCreateResponse()
 
 int main(int argc, char **argv)
 {
