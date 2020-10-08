@@ -10,19 +10,15 @@ step - 1
 ```
 step - 2
 ```
-  unzip Simple-Http-Server-in-C-main.zip -d Simple-Http-Server-in-C-main
- ```
-step - 3
-```
-  cd Simple-Http-Server-in-C-main
+  cd Simple-Http-Server-in-C
   cd http-server
  ```
-step - 4
+step - 3
 ```
   mkdir cmake-build
   cd cmake-build
 ```
-step - 5
+step - 4
  ```
   cmake ..
   make
